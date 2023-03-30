@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 - [ ] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
+<!--
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -30,11 +31,12 @@ Here's a walkthrough of implemented user stories:
 <img src='https://imgur.com/gallery/WuSCqCr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [Imgur](https://imgur.com)  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
+-->
 
 ## Notes
 
