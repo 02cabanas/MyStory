@@ -1,9 +1,9 @@
 ![](https://github.com/02cabanas/MyStory/blob/main/Gojo%20Satoru%20App%203%20-%20Imgur-2.gif)
 
 
-# Project 1 - *Name of App Here*
+# Project 1 - *MyStory*
 
-Submitted by: **Your Name Here**
+Submitted by: **Alfredo Cabanas**
 
 **Name of your app** is an app that introduces ... [TODO] 
 
